@@ -1,12 +1,4 @@
-# -----------------------------------------------------------------------------
-#
-# Tron
-# Language - Python
-# Modules - pygame, sys
-#
-# Controls - Arrow Keys for Player 2(Yellow) and WASD Keys for Player 1(Red)
-#
-# -----------------------------------------------------------------------------
+# Tron - by Bandi Revanth 
 
 import pygame
 import sys
